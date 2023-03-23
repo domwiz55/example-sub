@@ -1,0 +1,4 @@
+Dim I 
+For I = 1 To 5 ' Loop 5 times. 
+ Beep ' Sound tone. 
+Next I
